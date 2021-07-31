@@ -1,0 +1,34 @@
+body{
+	background: #d2d2c1 url('imagens/fundo.png') ;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+a{
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+h1{
+	color: #828271;
+	font-size: 1.5em;
+}
+
+
+#principal{
+		width: 900px;
+}
+#menu{
+	background: #c5c5b2;
+	padding: 18px;
+}
+#conteudo{
+	background: snow;
+	text-align: justify;
+	padding: 10px;
+}
+.center{
+	text-align: center;
+}
+.img{
+	border: 10px double #c3c3ae;
+}
